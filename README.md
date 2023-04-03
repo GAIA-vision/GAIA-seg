@@ -7,7 +7,7 @@ An AutoML toolbox specialized in semantic segmentation.
   
   gaiavision
   
-  mmcv-full 1.3.9
+  mmcv-full 1.3.0
 
 # Command
   ## Supernet training
